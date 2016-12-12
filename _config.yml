@@ -1,0 +1,21 @@
+# Site settings
+title: Crazy in Glove
+header-img: img/home-bg.png
+email: alexanderbglover@gmail.com
+copyright_name: gloverab
+description: > # this means to ignore newlines until "baseurl:"
+  Future content currently unknown. Let's get there together.
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  gloverab
+learn_profile: gloverab
+email_username: alexanderbglover@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
