@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "OO Ruby Programming and Everyday Conversation"
-date:   2017-01-18 18:23:22 +0000
+date:   2017-01-18 13:23:23 -0500
 ---
 
 Think about a conversation, even just a mildly interesting one. What are its core components? We interact with all of them several times each day, but barely need to think about what's going into it. A conversation can be broken down into five key components before repeating portions of the process: Initializing, listening, thinking, speaking, and assessing. Let's compare these components with their OO counterparts.
